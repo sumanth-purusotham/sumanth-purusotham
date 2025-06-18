@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Sumanth!
 
 ## 👨‍🎓 About Me:
 I'm a passionate and curious learner, currently stepping into the world of technology and software development. As a student, I'm constantly exploring new tools, languages, and frameworks to build a solid foundation for my career in tech.
@@ -8,9 +8,9 @@ I strongly believe in the power of *consistent learning, problem-solving, and re
 ---
 
 ## 🚀 Skills & Technologies I'm Learning:
-- *Programming Languages:* C, C++, Python, JavaScript (Basics)
-- *Web Development:* HTML5, CSS3, Bootstrap
-- *Tools:* Git, GitHub, VS Code
+- *Programming Languages:* C, Python (Basics)
+- *Web Development:* HTML
+- *Tools:*  GitHub, VS Code
 - *Operating Systems:* Windows, Linux (Basics)
 - *Version Control:* Git (still learning!)
 
@@ -27,6 +27,7 @@ I strongly believe in the power of *consistent learning, problem-solving, and re
 ## 💡 What I’m Interested In:
 - Web Development (Front-end)
 - Artificial Intelligence (AI)
+- Cyber Security And Ethical Hacking
 - Open Source Projects
 - Learning new programming paradigms
 - Connecting with fellow learners and mentors in tech
@@ -34,14 +35,9 @@ I strongly believe in the power of *consistent learning, problem-solving, and re
 ---
 
 ## 📫 How to Reach Me:
-- [LinkedIn](https://linkedin.com/in/your-profile) (replace with your link)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/purusotham-sumanth/)
+- [Email](mailto:sumanthpurusotham@gmail.com)
 
----
-
-## 📈 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
